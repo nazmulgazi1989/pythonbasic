@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="DirDiffMenu.EnableLeft">
+    <keyboard-shortcut first-keystroke="ctrl numpad4" />
+  </action>
+  <action id="DirDiffMenu.EnableRight">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+</keymap>
